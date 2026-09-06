@@ -22,7 +22,7 @@ import math
 # SETTINGS
 # =========================================================
 
-API_KEY = "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"
+OPENAI_API_KEY = ""
 MODEL = "gpt-5.6-luna"
 
 
