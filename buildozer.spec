@@ -35,7 +35,7 @@ android.api = 35
 android.minapi = 23
 
 # Android architecture
-android.arch = arm64-v8a
+android.archs = arm64-v8a
 
 # Keep the app name visible
 android.entrypoint = org.kivy.android.PythonActivity
