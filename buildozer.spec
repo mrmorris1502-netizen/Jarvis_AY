@@ -33,6 +33,7 @@ android.permissions = INTERNET,READ_CONTACTS
 # Android API settings
 android.api = 35
 android.minapi = 23
+android.accept_sdk_license = True
 
 # Android architecture
 android.archs = arm64-v8a
